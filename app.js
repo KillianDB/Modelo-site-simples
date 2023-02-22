@@ -1,10 +1,10 @@
 //Importando path, express e router
 
-const pathe = require('path');
+const path = require('path');
 
 const express = require('express');
 
-const router = require('router');
+const router = require('./router');
 
 //Executando express e habilitando ejs
 

@@ -3,3 +3,5 @@ const GeralController = {
         res.render('home');
     }
 }
+
+module.exports = GeralController;
